@@ -1,6 +1,6 @@
 <!-- ===== Header ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:02569B,100:0175C2&amp;height=180&amp;section=header&amp;text=ChiffonOwO&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Flutter%20%26%20FullStack%20Developer&amp;descAlignY=58&amp;descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:02569B,100:0175C2&amp;height=180&amp;section=header&amp;text=ChiffonOwO&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Flutter+and+FullStack+Developer&amp;descAlignY=58&amp;descSize=18" />
 
   <a href="https://github.com/ChiffonOwO">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=02569B&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Flutter+Developer;FullStack+Developer;Building+ChiffonMai;Coding+Everyday" alt="Typing SVG" />
